@@ -1,0 +1,17 @@
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\bin\Release\netcoreapp3.1\TowerDefence.exe
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\bin\Release\netcoreapp3.1\TowerDefence.deps.json
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\bin\Release\netcoreapp3.1\TowerDefence.runtimeconfig.json
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\bin\Release\netcoreapp3.1\TowerDefence.runtimeconfig.dev.json
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\bin\Release\netcoreapp3.1\TowerDefence.dll
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\bin\Release\netcoreapp3.1\TowerDefence.pdb
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\obj\Release\netcoreapp3.1\TowerDefence.csprojAssemblyReference.cache
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\obj\Release\netcoreapp3.1\TowerDefence.TDGame.resources
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\obj\Release\netcoreapp3.1\TowerDefence.TDMenu.resources
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\obj\Release\netcoreapp3.1\TowerDefence.csproj.GenerateResource.cache
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\obj\Release\netcoreapp3.1\TowerDefence.AssemblyInfoInputs.cache
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\obj\Release\netcoreapp3.1\TowerDefence.AssemblyInfo.cs
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\obj\Release\netcoreapp3.1\TowerDefence.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\obj\Release\netcoreapp3.1\TowerDefence.dll
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\obj\Release\netcoreapp3.1\TowerDefence.pdb
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\obj\Release\netcoreapp3.1\TowerDefence.genruntimeconfig.cache
+C:\Users\Craig\Documents\Visual Studio 2019\TowerDefence\TowerDefence\TowerDefence\obj\Release\netcoreapp3.1\TowerDefence.TDMapCreator.resources
